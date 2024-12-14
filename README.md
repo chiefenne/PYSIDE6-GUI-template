@@ -8,3 +8,9 @@ The basic building blocks of such a *Graphics View Framework* are implemented.
 It can be used as a starting point for new GUIs which include drawing.
 
 Also dockable windows are implemented to show this add on functionality.
+
+## License
+
+Distributed under the MIT license. See [LICENSE](https://github.com/chiefenne/PYSIDE6_Template/blob/main/LICENSE) for more information.
+
+2024 Andreas Ennemoser – andreas.ennemoser@aon.at
