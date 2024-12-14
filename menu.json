@@ -1,0 +1,44 @@
+{
+  "File": [
+    {
+      "name": "New",
+      "shortcut": "Ctrl+N"
+    },
+    {
+      "name": "Open",
+      "shortcut": "Ctrl+O"
+    },
+    {
+      "name": "Save",
+      "shortcut": "Ctrl+S"
+    },
+    {
+      "name": "Exit"
+    }
+  ],
+  "Edit": [
+    {
+      "name": "Undo",
+      "shortcut": "Ctrl+Z"
+    },
+    {
+      "name": "Redo",
+      "shortcut": "Ctrl+Y"
+    }
+  ],
+  "View": [
+    {
+      "name": "Zoom In",
+      "shortcut": "Ctrl++"
+    },
+    {
+      "name": "Zoom Out",
+      "shortcut": "Ctrl+-"
+    }
+  ],
+  "Help": [
+    {
+      "name": "About"
+    }
+  ]
+}
