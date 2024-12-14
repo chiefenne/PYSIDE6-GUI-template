@@ -7,7 +7,7 @@ The basic building blocks of such a *Graphics View Framework* are implemented.
 
 It can be used as a starting point for new GUIs which include drawing.
 
-Also dockable windows are implemented to show this add on functionality.
+Dockable windows are implemented to show this add on functionality.
 
 ## License
 
